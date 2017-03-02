@@ -1,0 +1,10 @@
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.exe.config
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.exe
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.pdb
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.xml
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.Resources.resources
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.vbproj.GenerateResource.Cache
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.exe
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.xml
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.pdb
+C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.MainForm.resources

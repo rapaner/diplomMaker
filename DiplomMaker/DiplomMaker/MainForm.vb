@@ -8,4 +8,5 @@
         Dim checkBase As New CheckBase
         checkBase.ShowDialog()
     End Sub
+
 End Class

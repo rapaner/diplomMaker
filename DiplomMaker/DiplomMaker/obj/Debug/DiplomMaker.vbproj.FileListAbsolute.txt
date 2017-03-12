@@ -8,3 +8,16 @@ C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\De
 C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.xml
 C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.pdb
 C:\Users\Asus-PC\Documents\Станкин\DIPLOMA\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.MainForm.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\bin\Debug\DiplomMaker.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.CheckBase.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.MainForm.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\DiplomMaker\DiplomMaker\obj\Debug\DiplomMaker.pdb

@@ -70,13 +70,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CheckBase.Designer.vb">
-      <DependentUpon>CheckBase.vb</DependentUpon>
-    </Compile>
-    <Compile Include="CheckBase.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ExcelClass.vb" />
     <Compile Include="MainForm.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -101,9 +94,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="CheckBase.resx">
-      <DependentUpon>CheckBase.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
     </EmbeddedResource>
